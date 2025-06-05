@@ -24,11 +24,11 @@ DowPlugin 是一款为 Android 设备设计的下载管理工具，由 BlackMapl
 
 **界面展示：**
 
-<img src="screenshots/1.PNG" width="300" alt="主界面"/>
+<img src="screenshots/1.PNG" width="220" alt="主界面"/>
 
-![下载详情](screenshots/2.PNG)
+<img src="screenshots/2.PNG" width="220" alt="下载详情"/>
 
-![深色模式](screenshots/3.PNG)
+<img src="screenshots/3.PNG" width="220" alt="深色模式"/>
 *深色模式界面效果*
 
 ### 任务管理
