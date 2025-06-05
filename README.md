@@ -1,6 +1,6 @@
 # DowPlugin - Android 下载管理工具
 
-![DowPlugin Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![DowPlugin Logo](main/icon.png)
 
 ## 软件简介
 
