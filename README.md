@@ -1,6 +1,6 @@
 # DowPlugin - Android 下载管理工具
 
-![DowPlugin Logo](main/icon.png)
+![DowPlugin Logo](icon.png)
 
 ## 软件简介
 
